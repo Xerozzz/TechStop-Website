@@ -825,7 +825,7 @@ xclip
 
 
 /*------------------------------------------------------------------
-    PORTFOLIO
+    Gallery
 -------------------------------------------------------------------*/
 
 .item-h2,
@@ -864,7 +864,7 @@ xclip
     transition-property: transform, opacity;
 }
 
-.portfolio-filter ul {
+.Gallery-filter ul {
     padding: 0;
     z-index: 2;
     display: block;
@@ -872,7 +872,7 @@ xclip
     margin: 0;
 }
 
-.portfolio-filter ul li {
+.Gallery-filter ul li {
     border-radius: 0;
     display: inline-block;
     margin: 0 5px 0 0;
@@ -881,11 +881,11 @@ xclip
     vertical-align: middle;
 }
 
-.portfolio-filter ul li:last-child:after {
+.Gallery-filter ul li:last-child:after {
     content: "";
 }
 
-.portfolio-filter ul li .btn-dark {
+.Gallery-filter ul li .btn-dark {
     box-shadow: none;
     background-color: transparent;
     border: 1px solid #e6e7e6 !important;
