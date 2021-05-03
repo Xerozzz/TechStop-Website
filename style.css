@@ -2616,3 +2616,19 @@ select.mobile-device {
     border-color: rgba(255, 255, 255, 0.6);
     color: rgba(255, 255, 255, 0.6);
 }
+
+/*------------------------------------------------------------------
+    OTHER CSSS
+-------------------------------------------------------------------*/
+.aboutimage{
+    padding-top: 10%;
+}
+
+.socials{
+    height:5%;
+    width:auto;
+}
+
+.socialsrow{
+    height:50px;
+}
